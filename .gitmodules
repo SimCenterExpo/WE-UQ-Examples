@@ -16,3 +16,6 @@
 [submodule "weuq-05"]
 	path = weuq-05
 	url = https://github.com/SimCenterExpo/weuq-05.git
+[submodule "weuq-02"]
+	path = weuq-02
+	url = https://github.com/SimCenterExpo/weuq-02.git
