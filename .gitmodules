@@ -1,0 +1,12 @@
+[submodule "weuq-01"]
+	path = weuq-01
+	url = https://github.com/SimCenterExpo/weuq-01.git
+[submodule "weuq-04"]
+	path = weuq-04
+	url = https://github.com/SimCenterExpo/weuq-04.git
+[submodule "weuq-08"]
+	path = weuq-08
+	url = https://github.com/SimCenterExpo/weuq-08.git
+[submodule "weuq-07"]
+	path = weuq-07
+	url = https://github.com/SimCenterExpo/weuq-07.git
